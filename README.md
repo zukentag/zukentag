@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, and any general software development questions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
